@@ -2,7 +2,9 @@
 A simple android using Tensor Flow and pre-trained models to detect objects captured from camera
 
 ################################################
+
 Let build Tensor Flow first
+
 - Clone Tensor Flow source code from https://github.com/tensorflow/tensorflow.git
 - Download NDK https://developer.android.com/ndk/downloads/older_releases.html#ndk-12b-downloads (should download revision 12b to build tensor flow without error)
 - Instal Bazel, Bazel is the primary build system for TensorFlow. On Mac using homebrew for installing easily https://bazel.build/versions/master/docs/install-os-x.html
