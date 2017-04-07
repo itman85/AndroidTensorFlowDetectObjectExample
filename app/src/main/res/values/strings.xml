@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidTensorFlowDetectObjectExample</string>
+    <string name="detect_objects">Detect Objects</string>
+</resources>
