@@ -1,7 +1,7 @@
 # Android TensorFlow Detect Object Example
 A simple android using Tensor Flow and pre-trained model to detect objects captured from camera
 
-################################################
+###################################################################
 
 Let build Tensor Flow first
 
